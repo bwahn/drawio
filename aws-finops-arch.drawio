@@ -135,6 +135,18 @@
         <mxCell id="M7x2iTXA3pfdP00wpJqi-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,transparent);strokeColor=light-dark(#000000,#CC6600);dashed=1;dashPattern=1 1;" vertex="1" parent="M7x2iTXA3pfdP00wpJqi-15">
           <mxGeometry x="648" y="14" width="610" height="143" as="geometry" />
         </mxCell>
+        <mxCell id="M7x2iTXA3pfdP00wpJqi-38" value="get_current_time" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#000000);strokeWidth=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontColor=light-dark(#000000,#000000);" vertex="1" parent="M7x2iTXA3pfdP00wpJqi-15">
+          <mxGeometry x="1042" y="198" width="191" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="M7x2iTXA3pfdP00wpJqi-39" value="API" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#000000);strokeWidth=2;dashed=1;dashPattern=1 1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);fontSize=13;" edge="1" parent="M7x2iTXA3pfdP00wpJqi-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="214" as="sourcePoint" />
+            <mxPoint x="1019" y="214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M7x2iTXA3pfdP00wpJqi-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,transparent);strokeColor=light-dark(#000000,#CC6600);dashed=1;dashPattern=1 1;" vertex="1" parent="M7x2iTXA3pfdP00wpJqi-15">
+          <mxGeometry x="648" y="168" width="610" height="143" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
