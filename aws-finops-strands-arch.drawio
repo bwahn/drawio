@@ -75,6 +75,39 @@
         <mxCell id="3fnXRMvO_0kpUGVqNr5g-18" value="&lt;h3&gt;Tools Layer&lt;/h3&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=auto;fillColor=none;strokeColor=none;fontColor=light-dark(#000000,#000000);spacing=7;" vertex="1" parent="1">
           <mxGeometry x="728" y="-638" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3fnXRMvO_0kpUGVqNr5g-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#CC0000);startSize=9;strokeWidth=4;exitX=1;exitY=0.388;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="-841" as="sourcePoint" />
+            <mxPoint x="679" y="-841" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3fnXRMvO_0kpUGVqNr5g-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#CC0000);startSize=9;strokeWidth=4;exitX=1;exitY=0.388;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="397" y="-823" as="sourcePoint" />
+            <mxPoint x="497" y="-823" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3fnXRMvO_0kpUGVqNr5g-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#CC0000);startSize=9;strokeWidth=4;exitX=1;exitY=0.388;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="-843" as="sourcePoint" />
+            <mxPoint x="939" y="-843" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3fnXRMvO_0kpUGVqNr5g-22" value="Cost Explorer API" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="957" y="-1058" width="139" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="3fnXRMvO_0kpUGVqNr5g-23" value="Athena" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="957" y="-917.5" width="139" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="3fnXRMvO_0kpUGVqNr5g-24" value="S3 storage" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="957" y="-778.5" width="139" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="3fnXRMvO_0kpUGVqNr5g-25" value="&lt;h3&gt;AWS services&lt;/h3&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=auto;fillColor=none;strokeColor=none;fontColor=light-dark(#000000,#000000);spacing=7;" vertex="1" parent="1">
+          <mxGeometry x="964" y="-635" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
